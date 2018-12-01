@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+.rpsBody {
+  margin-top: 200px;
+  align-self: center;
+}
